@@ -1,0 +1,39 @@
+{
+  "readmeUrl": "https://raw.githubusercontent.com/Prem01-cyber/Prem01-cyber/refs/heads/main/README.md",
+  "title": "Prem's Portfolio",
+  "name": "Prem Jampuram",
+  "ascii": "premj",
+  "social": {
+    "github": "Prem01-cyber",
+    "linkedin": "premjampuram"
+  },
+  "email": "jampuramprem01@gmail.com",
+  "ps1_hostname": "prems-portfolio",
+  "ps1_username": "guest_user",
+  "repo": "https://github.com/Prem01-cyber",
+  "resume_url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Resume.pdf",
+  "donate_urls": {
+    "paypal": "https://paypal.me/PremJampuram",
+    "patreon": "https://patreon.com/PremJampuram"
+  },
+  "colors": {
+    "light": {
+      "background": "#F3F4F6",
+      "foreground": "#2C2E33",
+      "yellow": "#C19A06",
+      "green": "#8F9D6A",
+      "gray": "#686C73",
+      "blue": "#4271AE",
+      "red": "#AF2528"
+    },
+    "dark": {
+      "background": "#1E1E1E",
+      "foreground": "#C5C8C6",
+      "yellow": "#F0C674",
+      "green": "#B5BD68",
+      "gray": "#707880",
+      "blue": "#81A2BE",
+      "red": "#CC6666"
+    }
+  }
+}
